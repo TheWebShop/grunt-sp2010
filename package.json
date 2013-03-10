@@ -2,7 +2,7 @@
   "name": "grunt-sp2010",
   "description": "Grunt task for running an Express server that simulates the SharePoint 2010 RESTful interface.",
   "version": "0.1.0",
-  "homepage": "https://github.com/kevinattfield/grunt-sp2010",
+  "homepage": "https://github.com/TheWebShop/grunt-sp2010",
   "author": {
     "name": "Kevin Attfield",
     "email": "k.attfield@gmail.com",
@@ -10,15 +10,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/kevinattfield/grunt-sp2010.git"
+    "url": "git://github.com/TheWebShop/grunt-sp2010.git"
   },
   "bugs": {
-    "url": "https://github.com/kevinattfield/grunt-sp2010/issues"
+    "url": "https://github.com/TheWebShop/grunt-sp2010/issues"
   },
   "licenses": [
     {
       "type": "MIT",
-      "url": "https://github.com/kevinattfield/grunt-sp2010/blob/master/LICENSE-MIT"
+      "url": "https://github.com/TheWebShop/grunt-sp2010/blob/master/LICENSE-MIT"
     }
   ],
   "main": "Gruntfile.js",
@@ -38,7 +38,9 @@
     "grunt": "~0.4.0"
   },
   "keywords": [
-    "gruntplugin"
+    "gruntplugin",
+    "sharepoint",
+    "express"
   ],
   "dependencies": {
     "express": "~3.1.0",
